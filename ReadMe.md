@@ -3,7 +3,7 @@ then, for each program, it will ask for the test file name, and then instruction
 A sample input/output screenshot is attached in the main directory.
 
 
-#Note: 
+# Note: 
 1. The following prefixes are added prior to memory addresses as follows:
 (#) before data memory addresses.
 ($) before instruction memory addresses.
