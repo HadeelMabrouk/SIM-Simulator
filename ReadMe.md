@@ -3,10 +3,10 @@ then, for each program, it will ask for the test file name, and then instruction
 A sample input/output screenshot is attached in the main directory.
 
 
-Note: 
+#Note: 
 1. The following prefixes are added prior to memory addresses as follows:
-# before data memory addresses.
-$ before instruction memory addresses.
+(#) before data memory addresses.
+($) before instruction memory addresses.
 2. For the data memory, I created a simple array of integers for the purpose of this assignment. A seperate register class can be implemented if necessary.
 3. A few printing lines of some data memory elements are added at lines 108-119 SIM.cpp for testing purposes only, can be commented.
 
